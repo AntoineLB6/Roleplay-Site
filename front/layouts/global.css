@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "driveCorps";
+    src: local("driveCorps"),
+     url(~assets/driveCorps/drivecorps.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "madeMirage";
+    src: local("madeMirage"),
+     url(~assets/madeMirage/madeMirage.otf) format("truetype");
+}
+
+@font-face {
+    font-family: "battleBingo";
+    src: local("battleBingo"),
+     url(~assets/battleBingo/battleBingo.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "copperPenny";
+    src: local("copperPenny"),
+     url(~assets/copperPenny/copperPenny.ttf) format("truetype");
+}
